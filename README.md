@@ -2,14 +2,10 @@
 
 I am a machine that converts coffee into code!!!!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...waste me not food donation web development 
-- 🌱 I’m currently learning ...python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about how to study
+Now that you are here...so know about me more
+- 🔭 I’m currently working on an reactive website. 
+- 🌱 I’m currently learning machine learning
+- 💬 Ask me about how to study... I can probably turn out the best tutor
 - 📫 How to reach me: ...paripzunake@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: you will never get bored of me
--->
+- ⚡ Fun fact: you will never get bored of me but make sure i don't get bored of you ><
