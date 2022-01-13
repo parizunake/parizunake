@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+### Hello Everyone <a href="URL_REDIRECT" target="blank"><img align="center" src="https://tenor.com/view/the-blobs-live-on-waving-hey-smiling-hi-gif-14457690" height="100" /></a>
 
 I am a machine that converts coffee into code!!!!
 
