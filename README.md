@@ -1,7 +1,6 @@
 ### Hello Everyone 👋
 
-<!--
-**parizunake/parizunake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a machine that converts coffee into code!!!!
 
 Here are some ideas to get you started:
 
